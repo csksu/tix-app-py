@@ -57,12 +57,12 @@ update package manager
 
 install python  
 ```markdown
-    brew install python3
+ brew install python3
 ```
 
 check python installation
 ```markdown
-    python3 --version
+ python3 --version
 ```
 
 install pip  
