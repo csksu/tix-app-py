@@ -35,7 +35,7 @@ if you see `id_rsa`, then an ssh key exists
 -rw-------  1 blue blue  575 Aug  8  2020 id_rsa.pub
 ```
 
-if you see don't see `id_rsa`, then generate one...  
+if you done't see `id_rsa`, then generate one...  
 
 ```markdown
 ssh-keygen -t rsa -b 4096
