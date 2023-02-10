@@ -52,17 +52,17 @@ https://github.com/settings/ssh/new
 
 update package manager  
 ```markdown
- brew update
+brew update
 ```
 
 install python  
 ```markdown
- brew install python3
+brew install python3
 ```
 
 check python installation
 ```markdown
- python3 --version
+python3 --version
 ```
 
 install pip  
